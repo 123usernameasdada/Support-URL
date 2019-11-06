@@ -1,4 +1,4 @@
-words Racer is a puzzle game for iOS mobile devices. It combines some other types of words with certain action and strategy elements in the puzzle game.
+Words Racer is a puzzle game for iOS mobile devices. It combines some other types of words with certain action and strategy elements in the puzzle game.
 The goal is to form words of a specified length at the top of the screen by successively adding letter tiles in each space.
 
 Words are formed by swiping on a mailbox on the screen to add a block of letters - if a word is formed, the space will disappear, freeing up space and preventing debris from reaching the top. All the boxed letters in the formed word will be transferred to the letter box at the top of the screen. If all the boxes are filled in and the spelling words match the word category, the player will advance to the next level. But be careful - add letter lines regularly, and when the level of the line reaches the top, the letters end.
